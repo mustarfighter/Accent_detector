@@ -1,0 +1,5 @@
+moviepy
+torch
+torchaudio
+streamlit
+yt-dlp
