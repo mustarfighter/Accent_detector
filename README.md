@@ -22,7 +22,7 @@ Clone the repository, set up a virtual environment, install dependencies, and ge
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/accent-classifier.git
+git clone https://github.com/mustarfighter/Accent_detector.git
 cd accent-classifier
 ```
 
