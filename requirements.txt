@@ -3,3 +3,5 @@ torch
 torchaudio
 streamlit
 yt-dlp
+faster-whisper
+imageio-ffmpeg
