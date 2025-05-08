@@ -4,6 +4,10 @@ import torchaudio
 import streamlit as st
 from moviepy import VideoFileClip
 import yt_dlp
+import imageio_ffmpeg
+
+# Set FFmpeg binary path (fix for Streamlit Cloud)
+os.environ["FFMPEG_BINARY"] = imageio_ffmpeg.get_ffmpeg_exe()
 
 
 # Set page config
