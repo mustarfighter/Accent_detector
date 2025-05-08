@@ -1,7 +1,9 @@
-moviepy
+streamlit
 torch
 torchaudio
-streamlit
-yt-dlp
 faster-whisper
-ffmpeg
+yt-dlp
+moviepy
+imageio
+imageio-ffmpeg
+ffmpeg-python
